@@ -83,7 +83,7 @@ let productInfo = [], message = '', CookieArr = [], Cookie = '', DeviceID = '';
 let MT_PROVINCE = $.getdata('MT_PROVINCE') || '广东省';
 let MT_CITY = $.getdata('MT_CITY') || '深圳市';
 let MT_DISTRICT = $.getdata('MT_DISTRICT') || '';
-let MT_ITEM_BLACK = $.getdata('MT_ITEM_BLACK') || '2478|10056|10213';
+let MT_ITEM_BLACK = $.getdata('MT_ITEM_BLACK') || '2478|10056|10214';
 let MT_TOKENS = $.getdata('MT_TOKENS') || '';
 let MT_VERSION = $.getdata('MT_VERSION') || '1.4.9';
 let MT_USERAGENT = $.getdata('MT_USERAGENT') || 'iOS;16.1.2;Apple;?unrecognized?';
